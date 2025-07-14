@@ -7,9 +7,9 @@ The code performs spatial and temporal analysis of precipitation concentration p
 
 
 ## Main Scripts
-#### fig.1.py: Calculates and maps Spatial gini coefficient 
-#### fig.2 py:  Calculates and maps Temporal gini coefficient 
-#### fig.3 and fig.4 py: Specific analysis of the time-scale GINI coefficient (including the spatial distribution and trend changes on rainy days and non-rainy days) and the differences in the risk of WWDD faced by different regions under the joint analysis of time and space
+#### fig.1.ipynb: Calculates and maps Spatial gini coefficient 
+#### fig.2.ipynb:  Calculates and maps Temporal gini coefficient 
+#### fig.3 and fig.4.ipynb: Specific analysis of the time-scale GINI coefficient (including the spatial distribution and trend changes on rainy days and non-rainy days) and the differences in the risk of WWDD faced by different regions under the joint analysis of time and space
 
 
 ## Requirements
