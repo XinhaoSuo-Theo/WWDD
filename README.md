@@ -3,10 +3,8 @@ This repository contains Python code used to generate figures for the study:
 "Investigating the Spatial and Temporal Patterns of Precipitation Concentration and Their Associated Risks" ( Scientific Reports).
 
 Code Description
-The code performs spatial and temporal analysis of precipitation concentration patterns and associated risks, producing publication-quality visualizations including:
+The code performs spatial and temporal analysis of precipitation concentration patterns and associated risks, producing publication-quality visualizations.
 
-1.spatial Gini coefficient and its trend
-2.Current temporal Gini coefficient and its trend
 
 Main Scripts
 fig.1.py: Calculates and maps Spatial gini coefficient 
